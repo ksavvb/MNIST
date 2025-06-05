@@ -14,10 +14,10 @@ a.Do you consider the MNIST data to be good for training a model? Justify your a
 - Yes, the MNIST dataset is good for training a model especially for begginers because it's clean and easy to process.
 
 b.Do you consider all the pixels equally valuable?
--No, because the corners are usually empty (black) all the time, so they don’t add any value to the prediction.
+- No, because the corners are usually empty (black) all the time, so they don’t add any value to the prediction.
 
 c.In which cases is it a good idea to use a Deep Neural Networks?
--We should use them when we have a lot of data, there are comple and non linear relatioships.
+- We should use them when we have a lot of data, there are comple and non linear relatioships.
 
 d.Can Deep Learning be used in all three branches of Machine Learning?
--Yes, Deep Neural Networks are flexible and can be used everywhere.
+- Yes, Deep Neural Networks are flexible and can be used everywhere.
