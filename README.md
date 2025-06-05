@@ -7,3 +7,17 @@ This project demonstrates a simple Machine Learning model trained on the MNIST d
 -   With these parameters we succesfully achieve  99.5% accuracy.
 
   You can view and run this Google Collab here: https://colab.research.google.com/drive/1HbnQHISZmfYIXWmmv1pk8hP9WVrTE1JE?usp=sharing
+
+Questions:
+
+a.Do you consider the MNIST data to be good for training a model? Justify your answer.
+- Yes, the MNIST dataset is good for training a model especially for begginers because it's clean and easy to process.
+
+b.Do you consider all the pixels equally valuable?
+-No, because the corners are usually empty (black) all the time, so they don’t add any value to the prediction.
+
+c.In which cases is it a good idea to use a Deep Neural Networks?
+-We should use them when we have a lot of data, there are comple and non linear relatioships.
+
+d.Can Deep Learning be used in all three branches of Machine Learning?
+-Yes, Deep Neural Networks are flexible and can be used everywhere.
