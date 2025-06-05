@@ -1,4 +1,4 @@
-# MNIST Konstantinos Savvidis 4658
+# MNIST (Konstantinos Savvidis 4658)
 This project demonstrates a simple Machine Learning model trained on the MNIST dataset. We use 70.000 grayscale images of handwritten digits, then we train the model on 60.000 images and we test the result with the rest 10.000 images. To achieve this we use a Deep Neural Network with the following parameters: 
 - learning rate = 0.001
 - epochs = 20
